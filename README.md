@@ -46,6 +46,6 @@ Gosto de código limpo, sistemas organizados e soluções que façam sentido no 
 
 ---
 
-### 🚀 Em constante evolução
+### Em constante evolução
 
 Este GitHub reflete minha jornada no desenvolvimento de sistemas. Cada projeto aqui representa aprendizado, evolução e melhoria contínua — código hoje melhor do que ontem, e amanhã melhor ainda.
